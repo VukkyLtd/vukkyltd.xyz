@@ -2,7 +2,7 @@
 id: vukkybot-setup
 title: Setup
 sidebar_label: Setup
-slug: /vukkybot/setup
+slug: /vukkybot/setup/setup
 ---
 
 ## Selfhosting

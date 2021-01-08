@@ -1,6 +1,13 @@
 module.exports = {
   sidebar: {
     'Vukky Ltd': ['home'],
-    'VukkyBot': ['vukkybot-setup', 'vukkybot-make-user'],
+    'VukkyBot': [
+      {
+        'Create a VukkyBot': [
+          'vukkybot-setup',
+          'vukkybot-make-user'
+        ],
+      },
+    ],
   },
 };

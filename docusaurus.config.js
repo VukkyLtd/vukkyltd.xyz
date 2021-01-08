@@ -40,7 +40,7 @@ module.exports = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://example.com',
+            'https://github.com/VukkyLtd/vukkyltd.xyz/edit/docs/',
         },
         blog: false,
         theme: {

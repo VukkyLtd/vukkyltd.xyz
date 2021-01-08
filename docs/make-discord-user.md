@@ -2,7 +2,7 @@
 id: vukkybot-make-user
 title: Making a Discord bot
 sidebar_label: Making a Discord bot
-slug: /vukkybot/make-bot
+slug: /vukkybot/setup/make-bot
 ---
 
 ## Creating the application
