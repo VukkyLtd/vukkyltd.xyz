@@ -5,4 +5,4 @@ sidebar_label: Home
 slug: /
 ---
 
-Welcome to the Vukky Ltd. documentation page!
+Welcome to the Vukky Limited documentation page! This is the home of VukkyBot's documentation.

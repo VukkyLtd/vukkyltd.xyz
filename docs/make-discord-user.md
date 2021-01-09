@@ -15,7 +15,7 @@ Enter a name for your bot, and click **Create**.
 On your application's page, click **Bot** in the sidebar. Then, click **Add Bot**.
 
 You'll see "Token", with a **Click to Reveal Token** link, and a **Copy** button. You can use these to get your token.
-:::caution
+:::warning
 
 Your token should **never** be shared with ***anyone***. If you shared your token by accident, you can use the **Regenerate** button to get a new token, rendering your old token useless.
 

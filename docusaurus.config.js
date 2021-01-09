@@ -29,7 +29,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Vukky Ltd. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Vukky Ltd. Built with Docusaurus, hosted with Netlify.`,
     },
   },
   presets: [
