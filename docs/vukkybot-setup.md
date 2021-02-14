@@ -32,7 +32,3 @@ The VukkyBot Setup tool does not make any modifications to your VukkyBot configu
 
 ### Usage
 To start your VukkyBot, use `npm start`.
-
-To stop your VukkyBot, use `npm stop`.
-
-To restart your VukkyBot, use `npm restart`.
